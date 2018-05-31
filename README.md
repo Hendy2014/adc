@@ -1,2 +1,2 @@
 # adc
-adfageav4q5rafadfqaqyqgafdfa
+放一些常用代码
